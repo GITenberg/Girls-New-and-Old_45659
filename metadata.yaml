@@ -1,0 +1,43 @@
+_repo: Girls-New-and-Old_45659
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williamson, J.
+    gutenberg_agent_id: '43398'
+    url: http://www.gutenberg.org/2009/agents/43398
+covers:
+- cover_type: archival
+  image_path: 45659-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Thomas, Elizabeth
+    - Meade, Mrs. L. T.
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Elizabeth Thomasina
+    - Meade, Lillie
+    - Mead, L. T.
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2014-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'England -- Juvenile fiction'
+- !lcsh 'Women -- Education -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+title: Girls New and Old
+url: http://www.gutenberg.org/ebooks/45659
